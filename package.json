@@ -1,0 +1,27 @@
+{
+  "bugs": {
+    "url": "https://github.com/chrisnzl/Eiffelicious/issues"
+  },
+  "description": "C# syntax theme for Atom 1.24.1",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/chrisnzl/Eiffelicious",
+  "keywords": [
+    "eiffel",
+    "eiffelicious",
+    "theme",
+    "light",
+    "syntax",
+    "csharp",
+    "c#"
+  ],
+  "license": "MIT",
+  "name": "Eiffelicious",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisnzl/Eiffelicious.git"
+  },
+  "theme": "syntax",
+  "version": "0.0.0"
+}
