@@ -78,5 +78,6 @@ If you develop games with [Unity](https://unity.com/), go Edit > Preferences > E
 - [open-files](https://atom.io/packages/open-files)
 - [pinned-tabs](https://atom.io/packages/pinned-tabs)
 - [sublime-block-comment](https://atom.io/packages/sublime-block-comment)
+- [symbols-tree-view](https://atom.io/packages/symbols-tree-view)
 - [tab-title](https://atom.io/packages/tab-title)
 - [title-bar-replacer](https://atom.io/packages/title-bar-replacer)
