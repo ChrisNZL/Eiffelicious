@@ -75,7 +75,7 @@ If you develop games with [Unity](https://unity.com/), go Edit > Preferences > E
 - [fancy-bracket-matcher](https://atom.io/packages/fancy-bracket-matcher)
 - [minimap](https://atom.io/packages/minimap)
 - [minimap-bookmarks](https://atom.io/packages/minimap-bookmarks)
-= [multi-highlight-selected](https://atom.io/packages/multi-highlight-selected)
+- [multi-highlight-selected](https://atom.io/packages/multi-highlight-selected)
 - [multiline-tab](https://atom.io/packages/multiline-tab)
 - [open-files](https://atom.io/packages/open-files)
 - [pinned-tabs](https://atom.io/packages/pinned-tabs)
