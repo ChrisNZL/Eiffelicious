@@ -79,6 +79,7 @@ If you develop games with [Unity](https://unity.com/), go Edit > Preferences > E
 - [multiline-tab](https://atom.io/packages/multiline-tab)
 - [open-files](https://atom.io/packages/open-files)
 - [pinned-tabs](https://atom.io/packages/pinned-tabs)
+- [smart-backspace](https://atom.io/packages/smart-backspace)
 - [sublime-block-comment](https://atom.io/packages/sublime-block-comment)
 - [symbols-tree-nav](https://atom.io/packages/symbols-tree-nav)
 - [tab-title](https://atom.io/packages/tab-title)
